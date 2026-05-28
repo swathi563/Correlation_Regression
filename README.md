@@ -64,3 +64,4 @@ register no:212225040449
 <img width="835" height="637" alt="WhatsApp Image 2026-05-28 at 8 14 23 PM" src="https://github.com/user-attachments/assets/1658c85b-cbaa-4206-a487-e7e2fe5be49c" />
 
 # Output 
+The correlation and regression for data analysis of objects feeder using probability distributions are calculated
